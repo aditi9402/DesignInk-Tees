@@ -1,4 +1,19 @@
+ ThreeJS 3D product website and infused with the power of artificial intelligence!
 
+I have used:
+* ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+* React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
+* TailwindCSS - a popular utility-first CSS styling framework
+* Framer Motion - the most popular library used to bring your React website to life with animations
+
+Features:
+* Stunning 3D models and geometries with various lights.
+* Made my code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+* Added custom color and file support.
+* Images can be generated and used through DALLE AI.
+* You can download the resulting t-shirt model image.
+* Ensures responsiveness across all devices. 
+* Improved site's performance.
 
 ![landscape](https://github.com/aditi9402/DesignInk-Tees/assets/114405540/26905ca9-c4be-49fc-8d03-6fd6abefc47d)
 ![AI](https://github.com/aditi9402/DesignInk-Tees/assets/114405540/576c4429-cc68-4843-8220-5eb581709bca)
