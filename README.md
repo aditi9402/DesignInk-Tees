@@ -1,5 +1,5 @@
 # DesignInk Tees
-ThreeJS 3D product website and infused with the power of artificial intelligence!
+ThreeJS 3D product website infused with the power of artificial intelligence!
 
 I have used:
 * ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
@@ -9,10 +9,10 @@ I have used:
 
 Features:
 * Stunning 3D models and geometries with various lights.
-* Made my code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+* Made the code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 * Added custom color and file support.
 * Images can be generated and used through DALLE AI.
-* You can download the resulting t-shirt model image.
+* The resulting t-shirt model image can be downloaded.
 * Ensures responsiveness across all devices. 
 * Improved site's performance.
 
